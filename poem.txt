@@ -1,5 +1,7 @@
 Purple
 Green 
 Red
+Green 
+Indigo
 Blue
 Yellow
